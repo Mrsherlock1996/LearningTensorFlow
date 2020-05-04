@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LearningTensorFlow", "LearningTensorFlow.pyproj", "{49A9815B-B7F4-4A6D-B744-E56FF5AB1671}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49A9815B-B7F4-4A6D-B744-E56FF5AB1671}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49A9815B-B7F4-4A6D-B744-E56FF5AB1671}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {984010CC-60FA-44D9-A251-E60868783DD0}
+	EndGlobalSection
+EndGlobal
