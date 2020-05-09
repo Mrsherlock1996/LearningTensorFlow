@@ -11,7 +11,7 @@
     <OutputPath>.</OutputPath>
     <Name>LearningTensorFlow</Name>
     <RootNamespace>LearningTensorFlow</RootNamespace>
-    <InterpreterId>CondaEnv|CondaEnv|env</InterpreterId>
+    <InterpreterId>CondaEnv|CondaEnv|LearnML</InterpreterId>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -26,6 +26,7 @@
   </ItemGroup>
   <ItemGroup>
     <InterpreterReference Include="CondaEnv|CondaEnv|env" />
+    <InterpreterReference Include="CondaEnv|CondaEnv|LearnML" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
